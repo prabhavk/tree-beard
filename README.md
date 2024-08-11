@@ -1,2 +1,2 @@
 # tree-beard
-Empirical observation about Life, the Universe, and Everything Else
+Empirical observations about Life, the Universe, and Realities
